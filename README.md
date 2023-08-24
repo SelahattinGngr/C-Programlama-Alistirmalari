@@ -9,7 +9,7 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 
 1. Bu depoyu bilgisayarınıza klonlayın:
 
-```bash
+```
 git clone https://github.com/SelahattinGngr/C-Programlama-Alistirmalari
 ```
 - ilgilendiginiz alistirmanin klasorune gidin:
