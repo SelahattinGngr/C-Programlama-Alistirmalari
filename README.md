@@ -11,7 +11,7 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 
 ```bash
 git clone https://github.com/SelahattinGngr/C-Programlama-Alistirmalari
-
+```
 	- ilgilendiginiz alistirmanin klasorune gidin:
 		- cd C-Programlama-Alistirmalari/Alistirma1
 	- klasör içindeki egzersiz.txt dosyasını açarak alıştırma açıklamasını okuyun.
