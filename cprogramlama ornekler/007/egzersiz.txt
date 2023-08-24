@@ -1,1 +1,0 @@
-klavyeden girilen metnin icinden yine klavyeden girilen bir karakterin kac defa gectigini bulan program

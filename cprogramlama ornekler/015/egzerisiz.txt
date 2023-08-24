@@ -1,3 +1,0 @@
-vize ve final notu alip ortalamasini aliniz 
-    - ortalama 50 ve ustu ise gecti aksi durumda kaldi ciktisi verin
-    - vize notu 0.4 final notu 0.6 uzerinden hesaplanacak

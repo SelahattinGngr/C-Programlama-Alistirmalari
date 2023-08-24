@@ -1,1 +1,0 @@
-kullanicidan alinan 3 sayidan en buyuk ve en kucuk sayiyi bulma

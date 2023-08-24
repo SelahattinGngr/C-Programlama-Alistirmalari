@@ -1,4 +1,0 @@
-girilen sayi dizisini kucukden buyuge siralayan program
-    - kullanicidan bir n sayisi alin
-    - n sayisi kadar sayi alin
-    - alinan sayilari kucukten buyuge siralayip yazdirin

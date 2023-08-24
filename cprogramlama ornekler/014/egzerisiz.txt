@@ -1,1 +1,0 @@
-girilen metnin kelimelerinin bas harflerini bulan program

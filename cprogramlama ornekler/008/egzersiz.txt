@@ -1,3 +1,0 @@
-klavyeden girilen metnin uzunlugunu bulan program
-    - c standart kutuphanesinde bulunan strlen ile ayni islevde olacaktir
-    - strlen kullanmayin lutfen
