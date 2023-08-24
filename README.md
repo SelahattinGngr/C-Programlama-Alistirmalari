@@ -10,7 +10,7 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 1. Bu depoyu bilgisayarınıza klonlayın:
 
 ```
-git clone https://github.com/SelahattinGngr/C-Programlama-Alistirmalari
+	git clone https://github.com/SelahattinGngr/C-Programlama-Alistirmalari
 ```
 - ilgilendiginiz alistirmanin klasorune gidin:
 	- cd C-Programlama-Alistirmalari/Alistirma1
@@ -18,7 +18,7 @@ git clone https://github.com/SelahattinGngr/C-Programlama-Alistirmalari
 - istenilen egzersizi ilk once kendiniz yaparak derleyip calistiriniz
 	- derlemek icin terminalden:
 ```bash
-			- gcc cozum.c -o cozum
-			- ./cozum
+	- gcc cozum.c -o cozum
+	- ./cozum
 ```
 - karsilastiginiz bir problem varsa main.c adindaki benim yazmis oldugum kod ile karsilastirma yapabilirsiniz.
