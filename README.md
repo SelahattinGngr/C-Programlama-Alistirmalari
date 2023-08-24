@@ -16,6 +16,9 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 	- cd C-Programlama-Alistirmalari/001
 ```
 - klasör içindeki egzersiz.txt dosyasını açarak alıştırma açıklamasını okuyun.
+```
+	cat egzersiz.txt
+```
 - istenilen egzersizi ilk once kendiniz yaparak derleyip calistiriniz
 	- derlemek icin terminalden:
 ```bash
