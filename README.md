@@ -51,3 +51,4 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 * 013 - girilen sayi dizisindeki en kucuk ve en buyuk sayiyi ekrana bastirin
 * 014 - girilen metnin kelimelerinin bas harflerini bulan program
 * 015 - vize ve final notu alip ortalamasini alan program
+* 016 - dinamik dizi olusturularak en buyuk sayiyi bulan program
