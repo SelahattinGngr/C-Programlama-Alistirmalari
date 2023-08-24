@@ -28,3 +28,9 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 - karsilastiginiz bir problem varsa main.c adindaki benim yazmis oldugum kod ile karsilastirma yapabilirsiniz.
 
 ## Depoda bulunan projeler
+- kendi seviyenize uygun projeden baslayip ilerleyebilirsiniz
+- her bir proje klasorunun kendine ait kodu vardir
+- bu kodlar 001-200 arasinda olabilir
+- kod numarasi arttikca zorluk da ona gore artacaktir
+
+# bu depo egitim icin degildir herhangi bir anlatim yoktur sadece algoritma kazanmaniz icin yapilmistir
