@@ -1,0 +1,1 @@
+girilen metni tersten yazan program

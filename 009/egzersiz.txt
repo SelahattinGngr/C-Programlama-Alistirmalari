@@ -1,0 +1,1 @@
+bir karakter ve bir sayi girildiginde sayi kadar karakteri yazan program

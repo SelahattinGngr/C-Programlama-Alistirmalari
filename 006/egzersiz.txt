@@ -1,0 +1,2 @@
+girilen n tane sayının teklerini ve çiftlerini toplayan program
+    - sayilari bir dizide tutunuz

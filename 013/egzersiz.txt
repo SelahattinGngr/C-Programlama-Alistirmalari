@@ -1,0 +1,4 @@
+girilen sayi dizisindeki en kucuk ve en buyuk sayiyi ekrana bastirin
+    - kullanicidan bir n sayisi alin
+    - n sayisi kadar sayi alin
+    - alinan sayilardan en kucuk ve en buyuk sayiyi ekrana bastirin

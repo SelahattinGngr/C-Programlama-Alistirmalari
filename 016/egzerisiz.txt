@@ -1,0 +1,3 @@
+dinamik dizi olusturularak en buyuk sayiyi bulan program
+    - pointer kullanarak islem yapin
+    - dilerseniz ayri proje olarak pointer kullanmadan dizi seklinde de yapabilirsiniz
