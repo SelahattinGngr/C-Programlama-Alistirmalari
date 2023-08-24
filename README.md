@@ -33,7 +33,7 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 - bu kodlar 001-200 arasinda olabilir
 - kod numarasi arttikca zorluk da ona gore artacaktir
 
-# bu depo egitim icin degildir herhangi bir anlatim yoktur sadece algoritma kazanmaniz icin yapilmistir
+# bu depoda herhangi bir anlatim yoktur sadece algoritma kazanmaniz icin yapilmistir
 
 ## depoda bulunan projeler
 * 001 - 1 den 100'e kadar olan sayilarin toplamini veren program
