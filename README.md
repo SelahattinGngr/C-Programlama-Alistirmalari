@@ -52,3 +52,5 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 * 014 - girilen metnin kelimelerinin bas harflerini bulan program
 * 015 - vize ve final notu alip ortalamasini alan program
 * 016 - dinamik dizi olusturularak en buyuk sayiyi bulan program
+* 017 - klavyeden girilen sayinin hanesindeki en buyuk rakami bulan program
+* 018 - palindromik sayi bulan program
