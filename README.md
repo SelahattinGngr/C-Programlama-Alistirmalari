@@ -12,12 +12,13 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 ```bash
 git clone https://github.com/SelahattinGngr/C-Programlama-Alistirmalari
 ```
-	- ilgilendiginiz alistirmanin klasorune gidin:
-		- cd C-Programlama-Alistirmalari/Alistirma1
-	- klasör içindeki egzersiz.txt dosyasını açarak alıştırma açıklamasını okuyun.
-	- istenilen egzersizi ilk once kendiniz yaparak derleyip calistiriniz
-		- derlemek icin terminalden:
+- ilgilendiginiz alistirmanin klasorune gidin:
+	- cd C-Programlama-Alistirmalari/Alistirma1
+- klasör içindeki egzersiz.txt dosyasını açarak alıştırma açıklamasını okuyun.
+- istenilen egzersizi ilk once kendiniz yaparak derleyip calistiriniz
+	- derlemek icin terminalden:
 ```bash
 			- gcc cozum.c -o cozum
 			- ./cozum
-	- karsilastiginiz bir problem varsa main.c adindaki benim yazmis oldugum kod ile karsilastirma yapabilirsiniz.
+```
+- karsilastiginiz bir problem varsa main.c adindaki benim yazmis oldugum kod ile karsilastirma yapabilirsiniz.
