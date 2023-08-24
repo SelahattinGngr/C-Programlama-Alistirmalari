@@ -1,0 +1,3 @@
+1 den arguman olarak kullanicidan alinan sayiya kadar olan sayilarin toplamini veren program.
+    - kullanicidan 1 adet arguman alinacak
+    - aksi durumda hata dondurecek

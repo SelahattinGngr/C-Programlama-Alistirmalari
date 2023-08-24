@@ -1,0 +1,1 @@
+switch case kullanarak 4 işlem (+ - * /) yapan program

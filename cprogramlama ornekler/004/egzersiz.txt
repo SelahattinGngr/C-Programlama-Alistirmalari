@@ -1,0 +1,3 @@
+kullanicidan arguman olarak alinan 3 sayidan en buyuk ve en kucuk sayiyi bulma
+    - kullanicidan 3 arguman alinacak
+    - aksi durumda hata donecek
