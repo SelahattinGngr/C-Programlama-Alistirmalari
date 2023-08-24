@@ -36,18 +36,18 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 # bu depo egitim icin degildir herhangi bir anlatim yoktur sadece algoritma kazanmaniz icin yapilmistir
 
 ## depoda bulunan projeler
-001 - 1 den 100'e kadar olan sayilarin toplamini veren program
-002 - 1 den kullanicidan alinan sayiya kadar olan sayilarin toplamini veren program (arguman ile)
-003 - kullanicidan alinan 3 sayidan en buyuk - kucuk sayiyi bulma
-004 - kullanicidan alinan 3 sayidan en buyuk - kucuk sayiyi bulma (arguman ile)
-005 - switch case kullanarak 4 işlem (+ - * /) yapan program
-006 - girilen n tane sayının teklerini ve çiftlerini toplayan program
-007 - klavyeden girilen metnin icinden yine klavyeden girilen bir karakterin kac defa gectigini bulan program
-008 - klavyeden girilen metnin uzunlugunu bulan program (strlen kullanilmadan)
-009 - bir karakter ve bir sayi girildiginde sayi kadar karakteri yazan program
-010 - bir karakter ve bir sayi girildiginde sayi kadar karakteri yazan program (arguman ile)
-011 - girilen metni tersten yazan program
-012 - girilen sayi dizisini kucukden buyuge siralayan program
-013 - girilen sayi dizisindeki en kucuk ve en buyuk sayiyi ekrana bastirin
-014 - girilen metnin kelimelerinin bas harflerini bulan program
-015 - vize ve final notu alip ortalamasini alan program
+* 001 - 1 den 100'e kadar olan sayilarin toplamini veren program
+* 002 - 1 den kullanicidan alinan sayiya kadar olan sayilarin toplamini veren program (arguman ile)
+* 003 - kullanicidan alinan 3 sayidan en buyuk - kucuk sayiyi bulma
+* 004 - kullanicidan alinan 3 sayidan en buyuk - kucuk sayiyi bulma (arguman ile)
+* 005 - switch case kullanarak 4 işlem (+ - * /) yapan program
+* 006 - girilen n tane sayının teklerini ve çiftlerini toplayan program
+* 007 - klavyeden girilen metnin icinden yine klavyeden girilen bir karakterin kac defa gectigini bulan program
+* 008 - klavyeden girilen metnin uzunlugunu bulan program (strlen kullanilmadan)
+* 009 - bir karakter ve bir sayi girildiginde sayi kadar karakteri yazan program
+* 010 - bir karakter ve bir sayi girildiginde sayi kadar karakteri yazan program (arguman ile)
+* 011 - girilen metni tersten yazan program
+* 012 - girilen sayi dizisini kucukden buyuge siralayan program
+* 013 - girilen sayi dizisindeki en kucuk ve en buyuk sayiyi ekrana bastirin
+* 014 - girilen metnin kelimelerinin bas harflerini bulan program
+* 015 - vize ve final notu alip ortalamasini alan program
