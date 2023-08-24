@@ -27,5 +27,4 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 ```
 - karsilastiginiz bir problem varsa main.c adindaki benim yazmis oldugum kod ile karsilastirma yapabilirsiniz.
 
----------------------------------------------------------------------------------------------------------------------
 ## Depoda bulunan projeler
