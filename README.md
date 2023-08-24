@@ -8,7 +8,6 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 
 
 1. Bu depoyu bilgisayarınıza klonlayın:
-
 ```
 	git clone https://github.com/SelahattinGngr/C-Programlama-Alistirmalari
 ```
@@ -16,9 +15,7 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 ```
 	- cd C-Programlama-Alistirmalari/001
 ```
-
 - klasör içindeki egzersiz.txt dosyasını açarak alıştırma açıklamasını okuyun.
-
 - istenilen egzersizi ilk once kendiniz yaparak derleyip calistiriniz
 	- derlemek icin terminalden:
 ```bash
