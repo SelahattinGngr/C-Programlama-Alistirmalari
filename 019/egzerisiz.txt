@@ -1,0 +1,11 @@
+armstrong sayi bulan program
+N haneli bir sayinin basamaklarinin n'inci ustlerinin toplami, sayinin kendisine esitse, böyle sayilara Armstrong sayi denir
+
+ornek : 
+153 = (1^1) + (5^5) + (3^3)
+153 = 1 + 125 + 27
+
+- math.h kutuphanesi araciligi ile pow fonksiyonu kullanilabilir
+- ama algoritma becerisi gelistiriyoruz o yuzden kullanmamaya ozen gosterin
+
+edit: iki turlu de yapin bilgi birikim olsun
