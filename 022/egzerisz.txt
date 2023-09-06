@@ -1,0 +1,2 @@
+hipotenüs hesaplama
+    - kullanicidan 2 dik kenar alin ve karsisindaki genis kenari hesaplayin

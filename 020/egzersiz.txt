@@ -1,0 +1,5 @@
+pointer'lar araciligiyla toplama islemi
+    - scanf ile 2 sayi alin
+    - pointer'a atama yapin
+    - pointer ile ekrana bastirin
+    - toplayip ekrana bastirin
