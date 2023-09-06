@@ -55,3 +55,7 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 * 017 - klavyeden girilen sayinin hanesindeki en buyuk rakami bulan program
 * 018 - palindromik sayi bulan program
 * 019 - armstrong sayi bulan program
+* 020 - pointer ile toplama islemi yapan program
+* 021 - decimal sayiyi binary tabana donusturen program
+* 022 - hipotenus hesaplayan program
+* 023 - daire alan ve cevresini hesaplayan program
