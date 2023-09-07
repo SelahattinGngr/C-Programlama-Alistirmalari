@@ -1,0 +1,1 @@
+negatif sayi girilene kadar toplami ortalamasi ve adetini bulan program
