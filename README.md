@@ -59,3 +59,6 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 * 021 - decimal sayiyi binary tabana donusturen program
 * 022 - hipotenus hesaplayan program
 * 023 - daire alan ve cevresini hesaplayan program
+* 024 - negatif sayi girilene kadar toplami ortalamasi ve adetini bulan program
+* 025 - kurenin alani ve hacmini bulan program
+* 026 - diziye rastgele sayi atayip atanan sayilari toplayan program
