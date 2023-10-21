@@ -1,0 +1,1 @@
+iki sayi arasindaki asal sayilari listeleyen program

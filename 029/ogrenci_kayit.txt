@@ -1,0 +1,4 @@
+10	selahattin	100
+20	evrim	95
+30	onur	100
+40	busra	42

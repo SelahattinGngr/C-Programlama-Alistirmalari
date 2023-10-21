@@ -1,0 +1,4 @@
+10	selahattin	17900
+20	busra	35200
+30	onurmert	0
+40	evrim	-1453

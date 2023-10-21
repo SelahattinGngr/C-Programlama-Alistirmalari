@@ -1,0 +1,4 @@
+sirali erisimli dosya islemi programi
+    - bu program bir banka bilgilerini tutan basit bir database olacak
+    - programin amaci dosya islemlerine hakim olabilmek
+    - bir txt dosyasindan islem yapacagiz

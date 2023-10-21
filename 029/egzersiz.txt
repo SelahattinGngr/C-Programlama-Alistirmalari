@@ -1,0 +1,6 @@
+dosya islemleri ile ogrenci ortalama tutan program
+    - kullanicidan alinacaklar
+        - ogrenci no
+        - ad
+        - ortalama
+    - bu alinanlari bir .txt dosyasi olusturup icerisine yazin
