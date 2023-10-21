@@ -62,3 +62,6 @@ Her alıştırma, ayrı bir klasör içinde bulunmaktadır. Her klasörün için
 * 024 - negatif sayi girilene kadar toplami ortalamasi ve adetini bulan program
 * 025 - kurenin alani ve hacmini bulan program
 * 026 - diziye rastgele sayi atayip atanan sayilari toplayan program
+* 027 - iki sayi arasindaki asal sayilari listeleyen program
+* 028 - banka bilgilerini tutan basit database formatinda dosya islemi program
+* 029 - dosya islemleri ile ogrenci ortalama tutan program
